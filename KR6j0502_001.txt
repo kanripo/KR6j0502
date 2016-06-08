@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:48.236615
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:20
 #+TITLE: 摩訶毘盧遮那如來定惠均等入三昧耶身雙身大聖歡喜天菩薩修行祕密法儀軌
 #+PROPERTY: CBETA_ID T21n1271
 #+PROPERTY: ID KR6j0502
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1271
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0502_T_001-0305c> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1271¶
-
- 摩訶毘盧遮那如來定惠均等入¶
+No. 1271¶
+摩訶毘盧遮那如來定惠均等入¶
 三昧耶身雙身大聖歡喜天菩薩¶
 修行祕密法儀軌¶
 ¶
